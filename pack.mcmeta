@@ -1,0 +1,6 @@
+{
+    "pack" : {
+        "pack_format" : 12,
+        "description" : "Adds craftable spawn eggs to the game. See https://github.com/illuminat3/CraftableSpawnEggs"
+    }
+}
